@@ -1,0 +1,74 @@
+Debuging Persistence Computation -- Log File
+Wed Jun  2 21:00:07 2021
+-------start vList construction and sorting
+Wed Jun  2 21:00:07 2021
+-------start sorting vList by f. value
+Wed Jun  2 21:00:07 2021
+-------end sorting vList by f. value
+Wed Jun  2 21:00:07 2021
+-------end vList constructed and sorting
+Number of vertices = 64
+Wed Jun  2 21:00:07 2021
+-------start propagating maximum values from vertices
+Wed Jun  2 21:00:07 2021
+-------end propagating maximum values from vertices
+Wed Jun  2 21:00:07 2021
+-------start cell numbering 
+Wed Jun  2 21:00:07 2021
+-------end cell numbering 
+Wed Jun  2 21:00:07 2021
+-------start explicit cell generation
+Wed Jun  2 21:00:07 2021
+-------end explicit cell generation
+Wed Jun  2 21:00:07 2021
+-------start explicit cell generation
+Wed Jun  2 21:00:07 2021
+-------end explicit cell generation
+Wed Jun  2 21:00:07 2021
+-------start explicit cell generation
+Wed Jun  2 21:00:07 2021
+-------end explicit cell generation
+Wed Jun  2 21:00:07 2021
+-------start propagating maximum values from vertices
+Wed Jun  2 21:00:07 2021
+-------end propagating maximum values from vertices
+Wed Jun  2 21:00:07 2021
+-------start cell numbering 
+Wed Jun  2 21:00:07 2021
+-------end cell numbering 
+Wed Jun  2 21:00:07 2021
+-------start boundary list resizing
+Wed Jun  2 21:00:07 2021
+-------end boundary list resizing
+Wed Jun  2 21:00:07 2021
+-------start boundary calculation
+Wed Jun  2 21:00:07 2021
+----------filtration construction finished
+Wed Jun  2 21:00:07 2021
+-------Reducing cells, total number = 49
+Wed Jun  2 21:00:07 2021
+-------start propagating maximum values from vertices
+Wed Jun  2 21:00:07 2021
+-------end propagating maximum values from vertices
+Wed Jun  2 21:00:07 2021
+-------start cell numbering 
+Wed Jun  2 21:00:07 2021
+-------end cell numbering 
+Wed Jun  2 21:00:07 2021
+-------start boundary list resizing
+Wed Jun  2 21:00:07 2021
+-------end boundary list resizing
+Wed Jun  2 21:00:07 2021
+-------start boundary calculation
+Wed Jun  2 21:00:07 2021
+----------filtration construction finished
+Wed Jun  2 21:00:07 2021
+-------Reducing cells, total number = 112
+Wed Jun  2 21:00:07 2021
+-------Reduction done
+Wed Jun  2 21:00:07 2021
+-------Recording persistence pairs
+Wed Jun  2 21:00:07 2021
+-------Finished
+All calculations computed in 0 seconds. 
+
