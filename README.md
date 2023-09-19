@@ -1,3 +1,8 @@
+# Topo_Trojan
+This repository contains the implementation of our paper "[Trigger Hunting with a Topological Prior for Trojan Detection](https://openreview.net/pdf?id=TXsjU8BaibT)", **accepted to ICLR 2022**. 
+
+## Method
+
 Reverse engineering features are extracted using three different versions of
 reverse engineering, corresponding to the `extract_fv_v17.py`, `extract_fv_color_v2r.py`,
 and `extract_fv_color_v2xy.py` files. The `extract_fv_v17.py` feature extractor
@@ -59,4 +64,13 @@ The hyperparameter search never ends, but the best model will be kept under `ses
 Performance can be read from `sessions/xxxxxxx/log.txt`.
 See `demo.py` for an example of how to use that model file.
 
+## Citation
+Please consider citing our paper if you find it useful.
+```
+@inproceedings{hu2022trigger,
+  title={Trigger Hunting with a Topological Prior for Trojan Detection},
+  author={Hu, Xiaoling and Lin, Xiao and Cogswell, Michael and Yao, Yi and Jha, Susmit and Chen, Chao},
+  booktitle={International Conference on Learning Representations},
+  year={2022}
+}
 
