@@ -1,4 +1,4 @@
-# Topo_Trojan
+# TopoTriger
 This repository contains the implementation of our paper "[Trigger Hunting with a Topological Prior for Trojan Detection](https://openreview.net/pdf?id=TXsjU8BaibT)", **accepted to ICLR 2022**. 
 
 ## Method
