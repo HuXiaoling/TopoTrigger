@@ -65,8 +65,16 @@ Performance can be read from `sessions/xxxxxxx/log.txt`.
 See `demo.py` for an example of how to use that model file.
 
 ## Citation
-Please consider citing our paper if you find it useful.
+Please consider citing our papers if you find them useful.
 ```
+@article{hu2019topology,
+  title={Topology-preserving deep image segmentation},
+  author={Hu, Xiaoling and Li, Fuxin and Samaras, Dimitris and Chen, Chao},
+  journal={Advances in neural information processing systems},
+  volume={32},
+  year={2019}
+}
+
 @inproceedings{hu2022trigger,
   title={Trigger Hunting with a Topological Prior for Trojan Detection},
   author={Hu, Xiaoling and Lin, Xiao and Cogswell, Michael and Yao, Yi and Jha, Susmit and Chen, Chao},
